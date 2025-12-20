@@ -10,12 +10,12 @@
 <!-- TOP BENTO -->
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%" valign="middle" align="center">
+<td width="50%" align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFsM2UxcnI5enR6MjM1dHN6bXJiZmo2dnhvNXhiY2R4ZnZiejlydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHApm4tOjtyoJHwRSZ/giphy.gif" width="220"/>
+<img src="https://media3.giphy.com/media/hHApm4tOjtyoJHwRSZ/giphy.gif" width="100%" />
 
 </td>
 
@@ -41,20 +41,20 @@
 <!-- MIDDLE BENTO -->
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
 ### 📊 stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=gajeee&show_icons=true&hide_border=true&theme=github_dark" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gajeee&show_icons=true&hide_border=true&theme=github_dark" width="100%" />
 
 </td>
 
-<td width="50%" valign="middle" align="center">
+<td width="50%" align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHM3N203d2ZyMzIwZWFodXhibm9pemx5ZDMycXpqbHNsZWhwM3B2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCmMbaBtMWEDY0qbf5/giphy.gif" width="200"/>
+<img src="https://media0.giphy.com/media/oCmMbaBtMWEDY0qbf5/giphy.gif" width="100%" />
 
 </td>
 
@@ -92,7 +92,7 @@
 <!-- BOTTOM BENTO -->
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -100,17 +100,22 @@
 ### 🛠️ working on
 
 - strengthening **core CS fundamentals**
-- small **portfolio refinements**
 - javascript basics → clean logic
 - cybersecurity foundations
+- refining my portfolio
+
+**📁 portfolio**  
+→ https://github.com/gajeee/Portfolio
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
+
+<img src="https://media0.giphy.com/media/b9BdAx0ocS8pbn398T/giphy.gif" width="100%" />
+
+<br>
 
 ### 🎧 rotation
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm8xc2Z1NmdoZ3V1MzQxbXBlamR1dmh0bmc5MTl0MHNlZ2h3Nm05diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b9BdAx0ocS8pbn398T/giphy.gif" width="90"/>
 
 - Nujabes — *Feather*
 - Joji — *Slow Dancing in the Dark*
