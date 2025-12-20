@@ -7,11 +7,17 @@
 
 ---
 
-<!-- bento grid -->
+<!-- TOP BENTO -->
 <div align="center">
 
 <table>
 <tr>
+
+<td width="50%" valign="middle" align="center">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFsM2UxcnI5enR6MjM1dHN6bXJiZmo2dnhvNXhiY2R4ZnZiejlydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHApm4tOjtyoJHwRSZ/giphy.gif" width="220"/>
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -25,11 +31,30 @@
 
 </td>
 
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- MIDDLE BENTO -->
+<div align="center">
+
+<table>
+<tr>
+
 <td width="50%" valign="top">
 
 ### 📊 stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=gajeee&show_icons=true&hide_border=true&theme=github_dark" width="100%"/>
+
+</td>
+
+<td width="50%" valign="middle" align="center">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHM3N203d2ZyMzIwZWFodXhibm9pemx5ZDMycXpqbHNsZWhwM3B2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCmMbaBtMWEDY0qbf5/giphy.gif" width="200"/>
 
 </td>
 
@@ -64,6 +89,7 @@
 
 ---
 
+<!-- BOTTOM BENTO -->
 <div align="center">
 
 <table>
@@ -71,11 +97,12 @@
 
 <td width="50%" valign="top">
 
-### 🧸 pinned
+### 🛠️ working on
 
-<a href="https://github.com/gajeee/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gajeee&repo=Portfolio&hide_border=true&theme=github_dark"/>
-</a>
+- strengthening **core CS fundamentals**
+- small **portfolio refinements**
+- javascript basics → clean logic
+- cybersecurity foundations
 
 </td>
 
@@ -83,7 +110,7 @@
 
 ### 🎧 rotation
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="80"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm8xc2Z1NmdoZ3V1MzQxbXBlamR1dmh0bmc5MTl0MHNlZ2h3Nm05diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b9BdAx0ocS8pbn398T/giphy.gif" width="90"/>
 
 - Nujabes — *Feather*
 - Joji — *Slow Dancing in the Dark*
