@@ -17,8 +17,8 @@
 
 <br>
 
-<!-- NEON ANIMATED DIVIDER -->
-<img src="https://media.tenor.com/7y2x2J9y9gQAAAAC/line-neon.gif" width="100%" height="6"/>
+<!-- PURPLE NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7a00ff,100:120021" width="100%"/>
 
 <br>
 
@@ -54,7 +54,7 @@
 
 <br>
 
-<img src="https://media.tenor.com/7y2x2J9y9gQAAAAC/line-neon.gif" width="100%" height="6"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:120021,100:7a00ff" width="100%"/>
 
 <br>
 
@@ -82,7 +82,7 @@
 
 <br>
 
-<img src="https://media.tenor.com/7y2x2J9y9gQAAAAC/line-neon.gif" width="100%" height="6"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7a00ff,100:120021" width="100%"/>
 
 <br>
 
@@ -110,7 +110,7 @@
 
 <br>
 
-<img src="https://media.tenor.com/7y2x2J9y9gQAAAAC/line-neon.gif" width="100%" height="6"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:120021,100:7a00ff" width="100%"/>
 
 <br>
 
@@ -155,7 +155,7 @@ https://github.com/gajeee/Portfolio
 
 <br>
 
-<img src="https://media.tenor.com/7y2x2J9y9gQAAAAC/line-neon.gif" width="100%" height="6"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7a00ff,100:120021" width="100%"/>
 
 <br>
 
