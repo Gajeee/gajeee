@@ -3,7 +3,7 @@
 <!-- DARK NEON PURPLE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=gajeee&fontSize=58&fontColor=ffffff&animation=fadeIn&color=0:120021,100:4b0082" width="100%"/>
 
-<!-- FIXED TYPING (no weird characters) -->
+<!-- FIXED TYPING -->
 <img
   src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=E0AAFF&center=true&vCenter=true&width=780&lines=computer+science+-+late+night+focus;i+like+building+project+cars;currently+learning+javascript;productive+male+-+sipping+matcha"
   alt="typing"
@@ -11,15 +11,17 @@
 
 <br><br>
 
-<!-- HERO LOFI GIF -->
+<!-- HERO LOFI GIF (your link / same gif id) -->
 <img src="https://media3.giphy.com/media/hHApm4tOjtyoJHwRSZ/giphy.gif" width="520"/>
 
 </div>
 
 <br>
 
-<!-- NEON DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7a00ff,100:120021" width="100%"/>
+<!-- MOVING DIVIDER (animated gif line) -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="6" />
+</div>
 
 <br>
 
@@ -56,8 +58,10 @@
 
 <br>
 
-<!-- NEON DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:120021,100:7a00ff" width="100%"/>
+<!-- MOVING DIVIDER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="6" />
+</div>
 
 <br>
 
@@ -85,8 +89,41 @@
 
 <br>
 
-<!-- NEON DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7a00ff,100:120021" width="100%"/>
+<!-- MOVING DIVIDER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="6" />
+</div>
+
+<br>
+
+<div align="center">
+
+### 🧠 familiar with
+
+<a href="https://www.reddit.com/r/vscode/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="44"/>
+</a>
+<a href="https://www.reddit.com/r/linux/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44"/>
+</a>
+<a href="https://www.reddit.com/r/bash/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="44"/>
+</a>
+<a href="https://www.reddit.com/r/mac/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="44"/>
+</a>
+<a href="https://www.reddit.com/r/windows/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="44"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- MOVING DIVIDER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="6" />
+</div>
 
 <br>
 
@@ -134,8 +171,10 @@ https://github.com/gajeee/Portfolio
 
 <br>
 
-<!-- NEON DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:120021,100:7a00ff" width="100%"/>
+<!-- MOVING DIVIDER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="6" />
+</div>
 
 <br>
 
