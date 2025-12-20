@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- 3D-ish animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0e11,100:1f2937&height=160&section=header&text=gajeee&fontSize=54&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<!-- neon purple animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=gajeee&fontSize=56&fontColor=ffffff&animation=fadeIn&color=0:7f00ff,100:2a004f" width="100%"/>
 
-<!-- moving typing line -->
+<!-- typing motion -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&lines=computer+science+%E2%80%A2+calm+focus+%E2%80%A2+late+nights;i+like+building+project+cars;currently+learning+javascript;productive+male+%E2%80%A2+sipping+matcha+%F0%9F%8D%B5"
+  src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=C77DFF&center=true&vCenter=true&width=760&lines=computer+science+•+late+night+focus;i+like+building+project+cars;currently+learning+javascript;productive+male+•+sipping+matcha+🍵"
   alt="typing"
 />
 
 <br><br>
 
-<!-- hero gif -->
-<img src="https://media3.giphy.com/media/hHApm4tOjtyoJHwRSZ/giphy.gif" width="520" alt="lofi"/>
+<!-- hero neon lofi gif -->
+<img src="https://media3.giphy.com/media/hHApm4tOjtyoJHwRSZ/giphy.gif" width="520" />
 
 </div>
 
@@ -21,14 +21,14 @@
 <!-- BENTO GRID -->
 <div align="center">
 
-<table width="100%" cellspacing="0" cellpadding="12">
+<table width="100%" cellspacing="0" cellpadding="14">
 <tr>
 
 <td width="50%" valign="top">
 
 ### 👤 about
 
-- CS student @ **UNITEN**
+- computer science student @ **UNITEN**
 - ex-MICOST (SKM)
 - i like building **project cars**
 - currently learning **javascript**
@@ -40,7 +40,7 @@
 
 ### 📊 stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=gajeee&show_icons=true&hide_border=true&theme=github_dark" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=gajeee&show_icons=true&hide_border=true&theme=midnight-purple" width="100%" />
 
 </td>
 
@@ -52,12 +52,13 @@
 
 ### 🛠️ working on
 
-- core CS fundamentals
-- javascript basics → clean logic
+- strengthening **CS fundamentals**
+- javascript → clean logic
 - cybersecurity foundations
 - refining my portfolio
 
-**portfolio:** https://github.com/gajeee/Portfolio
+**portfolio:**  
+https://github.com/gajeee/Portfolio
 
 </td>
 
@@ -66,7 +67,7 @@
 ### 🎧 late-night rotation
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/oCmMbaBtMWEDY0qbf5/giphy.gif" width="280" alt="vibes"/>
+  <img src="https://media0.giphy.com/media/oCmMbaBtMWEDY0qbf5/giphy.gif" width="260" />
 </div>
 
 - Nujabes — *Feather*  
@@ -74,7 +75,7 @@
 - Frank Ocean — *Ivy*  
 - The Weeknd — *Call Out My Name*  
 - Drake — *Jungle*  
-- Daniel Caesar — *Japanese Denim*  
+- Daniel Caesar — *Japanese Denim*
 
 </td>
 
@@ -90,19 +91,19 @@
 ### 🧩 languages
 
 <a href="https://www.reddit.com/r/Python/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44"/>
 </a>
 <a href="https://www.reddit.com/r/C_Programming/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44"/>
 </a>
 <a href="https://www.reddit.com/r/java/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44"/>
 </a>
 <a href="https://www.reddit.com/r/HTML/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44"/>
 </a>
 <a href="https://www.reddit.com/r/javascript/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44"/>
 </a>
 
 </div>
@@ -111,26 +112,26 @@
 
 <div align="center">
 
-<!-- small moving accent -->
-<img src="https://media0.giphy.com/media/b9BdAx0ocS8pbn398T/giphy.gif" width="460" alt="cozy"/>
+<!-- neon accent gif -->
+<img src="https://media0.giphy.com/media/b9BdAx0ocS8pbn398T/giphy.gif" width="460"/>
 
 <br><br>
 
-<!-- BIGGER socials -->
+<!-- BIG neon socials -->
 <a href="https://www.reddit.com/user/Hurtzeuz/">
-  <img src="https://img.shields.io/badge/REDDIT-0B0E11?style=for-the-badge&logo=reddit&logoColor=FF4500&labelColor=0B0E11" height="40"/>
+  <img src="https://img.shields.io/badge/REDDIT-2a004f?style=for-the-badge&logo=reddit&logoColor=ff4d6d" height="42"/>
 </a>
 <a href="https://open.spotify.com/user/n26cmlxfznt69278llwe8x6pk">
-  <img src="https://img.shields.io/badge/SPOTIFY-0B0E11?style=for-the-badge&logo=spotify&logoColor=1DB954&labelColor=0B0E11" height="40"/>
+  <img src="https://img.shields.io/badge/SPOTIFY-2a004f?style=for-the-badge&logo=spotify&logoColor=1db954" height="42"/>
 </a>
 <a href="https://www.instagram.com/gajeness">
-  <img src="https://img.shields.io/badge/INSTAGRAM-0B0E11?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0B0E11" height="40"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-2a004f?style=for-the-badge&logo=instagram&logoColor=c77dff" height="42"/>
 </a>
 <a href="mailto:gajenes10@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0B0E11?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0B0E11" height="40"/>
+  <img src="https://img.shields.io/badge/EMAIL-2a004f?style=for-the-badge&logo=gmail&logoColor=ffffff" height="42"/>
 </a>
 
 </div>
 
-<!-- subtle footer for symmetry -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0e11,100:1f2937&height=110&section=footer" width="100%"/>
+<!-- footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2a004f,100:7f00ff" width="100%"/>
