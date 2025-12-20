@@ -11,21 +11,17 @@
 
 <br><br>
 
-<!-- HERO LOFI GIF (your link / same gif id) -->
 <img src="https://media3.giphy.com/media/hHApm4tOjtyoJHwRSZ/giphy.gif" width="520"/>
 
 </div>
 
 <br>
 
-<!-- MOVING DIVIDER (animated gif line) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="6" />
-</div>
+<!-- NEON ANIMATED DIVIDER -->
+<img src="https://media.tenor.com/7y2x2J9y9gQAAAAC/line-neon.gif" width="100%" height="6"/>
 
 <br>
 
-<!-- BENTO GRID -->
 <div align="center">
 
 <table width="100%" cellspacing="0" cellpadding="16">
@@ -58,10 +54,7 @@
 
 <br>
 
-<!-- MOVING DIVIDER -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="6" />
-</div>
+<img src="https://media.tenor.com/7y2x2J9y9gQAAAAC/line-neon.gif" width="100%" height="6"/>
 
 <br>
 
@@ -89,10 +82,7 @@
 
 <br>
 
-<!-- MOVING DIVIDER -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="6" />
-</div>
+<img src="https://media.tenor.com/7y2x2J9y9gQAAAAC/line-neon.gif" width="100%" height="6"/>
 
 <br>
 
@@ -100,19 +90,19 @@
 
 ### 🧠 familiar with
 
-<a href="https://www.reddit.com/r/vscode/" target="_blank">
+<a href="https://www.reddit.com/r/vscode/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="44"/>
 </a>
-<a href="https://www.reddit.com/r/linux/" target="_blank">
+<a href="https://www.reddit.com/r/linux/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44"/>
 </a>
-<a href="https://www.reddit.com/r/bash/" target="_blank">
+<a href="https://www.reddit.com/r/bash/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="44"/>
 </a>
-<a href="https://www.reddit.com/r/mac/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="44"/>
+<a href="https://www.reddit.com/r/raspberry_pi/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="44"/>
 </a>
-<a href="https://www.reddit.com/r/windows/" target="_blank">
+<a href="https://www.reddit.com/r/windows/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="44"/>
 </a>
 
@@ -120,14 +110,10 @@
 
 <br>
 
-<!-- MOVING DIVIDER -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="6" />
-</div>
+<img src="https://media.tenor.com/7y2x2J9y9gQAAAAC/line-neon.gif" width="100%" height="6"/>
 
 <br>
 
-<!-- LOWER BENTO -->
 <div align="center">
 
 <table width="100%" cellspacing="0" cellpadding="16">
@@ -151,9 +137,7 @@ https://github.com/gajeee/Portfolio
 
 ### 🎧 late-night rotation
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/oCmMbaBtMWEDY0qbf5/giphy.gif" width="260"/>
-</div>
+<img src="https://media0.giphy.com/media/oCmMbaBtMWEDY0qbf5/giphy.gif" width="260"/>
 
 - Nujabes — *Feather*  
 - Joji — *Slow Dancing in the Dark*  
@@ -171,21 +155,16 @@ https://github.com/gajeee/Portfolio
 
 <br>
 
-<!-- MOVING DIVIDER -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="6" />
-</div>
+<img src="https://media.tenor.com/7y2x2J9y9gQAAAAC/line-neon.gif" width="100%" height="6"/>
 
 <br>
 
 <div align="center">
 
-<!-- NEON ACCENT GIF -->
 <img src="https://media0.giphy.com/media/b9BdAx0ocS8pbn398T/giphy.gif" width="460"/>
 
 <br><br>
 
-<!-- BIG NEON SOCIALS -->
 <a href="https://www.reddit.com/user/Hurtzeuz/">
   <img src="https://img.shields.io/badge/REDDIT-120021?style=for-the-badge&logo=reddit&logoColor=ff4dff" height="44"/>
 </a>
@@ -201,5 +180,4 @@ https://github.com/gajeee/Portfolio
 
 </div>
 
-<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:120021,100:7a00ff" width="100%"/>
