@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=gajeee&fontSize=52&fontColor=ffffff&animation=fadeIn&color=0:120021,100:4b0082" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Gajee&fontSize=52&fontColor=ffffff&animation=fadeIn&color=0:120021,100:4b0082" width="100%"/>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=1200&color=E0AAFF&center=true&vCenter=true&width=680&lines=computer+science+-+late+night+focus;i+like+building+project+cars;learning+javascript;productive+male+-+sipping+matcha"
@@ -20,7 +20,7 @@
 
 <td width="50%" valign="top">
 
-**about**
+**𓂃⋆.˚ about**
 - CS student @ **UNITEN**
 - ex-MICOST (SKM)
 - project cars
@@ -31,7 +31,7 @@
 
 <td width="50%" valign="top">
 
-**stats**  
+**࣪𖤐.ᐟ stats**  
 <img src="https://github-readme-stats.vercel.app/api?username=gajeee&show_icons=true&hide_border=true&theme=midnight-purple" width="100%"/>
 
 </td>
@@ -88,7 +88,7 @@
 
 <td width="50%" valign="top">
 
-**working on**
+**࣪𖤐.ᐟ working on**
 - CS fundamentals
 - javascript logic
 - cybersecurity
@@ -99,7 +99,7 @@ https://github.com/gajeee/Portfolio
 
 <td width="50%" valign="top">
 
-**rotation**  
+**Spotify Nights 𓂃⋆.˚**  
 <img src="https://media0.giphy.com/media/oCmMbaBtMWEDY0qbf5/giphy.gif" width="180"/>
 
 Nujabes • Joji • Frank Ocean  
