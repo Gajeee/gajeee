@@ -81,12 +81,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7a00ff,100:120021" width="100%"/>
 
-<!-- PC-friendly (2 columns) -->
 <div align="center">
+
+<!-- collapsed cleanly: removed the empty right column entirely -->
 <table width="100%" cellpadding="8">
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 **࣪𖤐.ᐟ working on**
 - CS fundamentals
@@ -94,38 +95,19 @@
 - cybersecurity
 - portfolio  
 https://github.com/gajeee/Portfolio
-
-</td>
-
-<td width="50%" valign="top" align="center">
-
-<img src="https://media0.giphy.com/media/b9BdAx0ocS8pbn398T/giphy.gif" width="340"/>
 
 </td>
 
 </tr>
 </table>
-</div>
-
-<!-- Mobile-friendly (stacked) -->
-<div align="center">
-
-**࣪𖤐.ᐟ working on**
-- CS fundamentals
-- javascript logic
-- cybersecurity
-- portfolio  
-https://github.com/gajeee/Portfolio
-
-<br/>
-
-<img src="https://media0.giphy.com/media/b9BdAx0ocS8pbn398T/giphy.gif" width="340"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:120021,100:7a00ff" width="100%"/>
 
 <div align="center">
+
+<img src="https://media0.giphy.com/media/b9BdAx0ocS8pbn398T/giphy.gif" width="340"/>
 
 <a href="https://www.reddit.com/user/Hurtzeuz/"><img src="https://img.shields.io/badge/REDDIT-120021?style=for-the-badge&logo=reddit&logoColor=ff4dff" height="32"/></a>
 <a href="https://open.spotify.com/user/n26cmlxfznt69278llwe8x6pk"><img src="https://img.shields.io/badge/SPOTIFY-120021?style=for-the-badge&logo=spotify&logoColor=1db954" height="32"/></a>
