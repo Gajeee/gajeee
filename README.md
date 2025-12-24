@@ -8,62 +8,58 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7a00ff,100:120021" width="100%"/>
 
+<!-- Bento Box Start -->
 <div align="center">
+  <table width="100%" cellpadding="8">
+    <tr>
+      <td align="center" style="padding: 20px; border: 2px solid #7a00ff; border-radius: 8px; margin: 10px; width: 45%; background-color: #120021;">
+        <strong style="color: white;">About Me</strong>
+        <p style="color: white; font-size: 14px;">CS Student @ <strong>UNITEN</strong></p>
+        <p style="color: white; font-size: 14px;">Building innovative tech solutions and continuously learning</p>
+        <p style="color: white; font-size: 14px;">Focused on JavaScript, Cybersecurity, and Web Development</p>
+      </td>
 
-<table width="100%" cellpadding="8">
-<tr>
-
-<td width="50%" valign="top">
-
-**About Me**
-- Computer Science Student @ **UNITEN**
-- Passionate about building innovative projects and solutions
-- Focusing on JavaScript, Cybersecurity, and Web Development
-- Always learning and growing in the tech world
-
-</td>
-
-<td width="50%" valign="top">
-
-**Technologies & Tools**  
-<a href="https://www.reddit.com/r/Python/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34"/></a>
-<a href="https://www.reddit.com/r/C_Programming/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="34"/></a>
-<a href="https://www.reddit.com/r/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="34"/></a>
-<a href="https://www.reddit.com/r/HTML/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34"/></a>
-<a href="https://www.reddit.com/r/javascript/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34"/></a>
-
-</td>
-
-</tr>
-</table>
-
+      <td align="center" style="padding: 20px; border: 2px solid #7a00ff; border-radius: 8px; margin: 10px; width: 45%; background-color: #120021;">
+        <strong style="color: white;">Technologies & Tools</strong>
+        <div>
+          <a href="https://www.reddit.com/r/Python/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34"/></a>
+          <a href="https://www.reddit.com/r/C_Programming/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="34"/></a>
+          <a href="https://www.reddit.com/r/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="34"/></a>
+          <a href="https://www.reddit.com/r/HTML/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34"/></a>
+          <a href="https://www.reddit.com/r/javascript/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34"/></a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
+<!-- Bento Box End -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:120021,100:7a00ff" width="100%"/>
 
+<!-- Bento Box Start -->
 <div align="center">
+  <table width="100%" cellpadding="8">
+    <tr>
+      <td align="center" style="padding: 20px; border: 2px solid #7a00ff; border-radius: 8px; margin: 10px; width: 45%; background-color: #120021;">
+        <strong style="color: white;">Currently Working On</strong>
+        <p style="color: white; font-size: 14px;">Strengthening Computer Science fundamentals</p>
+        <p style="color: white; font-size: 14px;">Improving JavaScript and web development skills</p>
+        <p style="color: white; font-size: 14px;">Exploring cybersecurity solutions</p>
+        <p style="color: white; font-size: 14px;">Building a professional portfolio <a href="https://github.com/gajeee/Portfolio" style="color: #7a00ff;">Check it here</a></p>
+      </td>
 
-**Currently Working On**
-- Strengthening Computer Science fundamentals
-- Enhancing JavaScript skills
-- Exploring cybersecurity practices and solutions
-- Building a professional portfolio
-
-<a href="https://github.com/gajeee/Portfolio">Check my Portfolio here</a>
-
+      <td align="center" style="padding: 20px; border: 2px solid #7a00ff; border-radius: 8px; margin: 10px; width: 45%; background-color: #120021;">
+        <strong style="color: white;">Find Me On</strong>
+        <div>
+          <a href="https://www.reddit.com/user/Hurtzeuz/"><img src="https://img.shields.io/badge/REDDIT-120021?style=for-the-badge&logo=reddit&logoColor=ff4dff" height="32"/></a>
+          <a href="https://open.spotify.com/user/n26cmlxfznt69278llwe8x6pk"><img src="https://img.shields.io/badge/SPOTIFY-120021?style=for-the-badge&logo=spotify&logoColor=1db954" height="32"/></a>
+          <a href="https://www.instagram.com/gajeness"><img src="https://img.shields.io/badge/INSTAGRAM-120021?style=for-the-badge&logo=instagram&logoColor=e0aaff" height="32"/></a>
+          <a href="mailto:gajenes10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-120021?style=for-the-badge&logo=gmail&logoColor=ffffff" height="32"/></a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:120021,100:7a00ff" width="100%"/>
-
-<div align="center">
-
-**Find me on:**
-
-<a href="https://www.reddit.com/user/Hurtzeuz/"><img src="https://img.shields.io/badge/REDDIT-120021?style=for-the-badge&logo=reddit&logoColor=ff4dff" height="32"/></a>
-<a href="https://open.spotify.com/user/n26cmlxfznt69278llwe8x6pk"><img src="https://img.shields.io/badge/SPOTIFY-120021?style=for-the-badge&logo=spotify&logoColor=1db954" height="32"/></a>
-<a href="https://www.instagram.com/gajeness"><img src="https://img.shields.io/badge/INSTAGRAM-120021?style=for-the-badge&logo=instagram&logoColor=e0aaff" height="32"/></a>
-<a href="mailto:gajenes10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-120021?style=for-the-badge&logo=gmail&logoColor=ffffff" height="32"/></a>
-
-</div>
+<!-- Bento Box End -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:120021,100:7a00ff" width="100%"/>
