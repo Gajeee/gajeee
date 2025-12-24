@@ -32,8 +32,8 @@
 <td width="50%" valign="top">
 
 **࣪𖤐.ᐟ stats**  
-<!-- Fast GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=gajeee&show_icons=true&count_private=true&hide=prs&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=ff69b4&icon_color=ff69b4" width="100%"/>
+<!-- New GitHub Stats by Anurag Hazra -->
+<img src="https://github-readme-stats.vercel.app/api?username=gajeee&show_icons=true&count_private=true&hide=prs&theme=tokyonight&bg_color=0d1117&text_color=ffffff&title_color=9b59b6&icon_color=9b59b6" width="100%"/>
 
 </td>
 
@@ -118,3 +118,4 @@ https://github.com/gajeee/Portfolio
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:120021,100:7a00ff" width="100%"/>
+
