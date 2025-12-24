@@ -38,7 +38,7 @@
 - javascript logic
 - cybersecurity 🛡️
 - portfolio  
-https://github.com/gajeee/Portfolio
+https://gajeee.github.io/Portfolio/
 
 </td>
 
