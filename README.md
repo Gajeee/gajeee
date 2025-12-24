@@ -32,8 +32,8 @@
 <td width="50%" valign="top">
 
 **࣪𖤐.ᐟ stats**  
-<!-- New Stats Design by an external provider (Trophy Stats) -->
-<img src="https://github-profile-trophy.vercel.app/?username=gajeee&theme=onedark&no-frame=true&row=1&column=3" width="100%"/>
+<!-- Fast GitHub Readme Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=gajeee&show_icons=true&count_private=true&hide=prs&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=ff69b4&icon_color=ff69b4" width="100%"/>
 
 </td>
 
