@@ -19,7 +19,7 @@
 <tr>
 
 <!-- About Section -->
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 **𓂃⋆.˚ about**
 - CS student @ **UNITEN**
@@ -31,7 +31,7 @@
 </td>
 
 <!-- Stats Section -->
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 **࣪𖤐.ᐟ stats**  
 <!-- New GitHub Stats by Anurag Hazra -->
