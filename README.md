@@ -32,11 +32,8 @@
 <td width="50%" valign="top">
 
 **࣪𖤐.ᐟ stats**  
-<!-- Updated GitHub stats image URL -->
-<img src="https://github-readme-stats.vercel.app/api?username=gajeee&show_icons=true&hide_border=true&theme=midnight-purple" width="100%"/>
-
-<!-- Fallback if the above doesn't work -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=gajeee&count_private=true&show_icons=true&hide=prs&theme=midnight-purple" width="100%"/> -->
+<!-- Live GitHub Stats in Purple -->
+<img src="https://github-readme-stats.vercel.app/api?username=gajeee&count_private=true&show_icons=true&hide=prs&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=9b59b6&icon_color=9b59b6" width="100%"/>
 
 </td>
 
