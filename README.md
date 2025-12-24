@@ -1,101 +1,121 @@
 <div align="center">
 
-  <!-- Header Image with Waving Text -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Gajee&fontSize=52&fontColor=ffffff&animation=fadeIn&color=0:120021,100:4b0082" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Gajee&fontSize=52&fontColor=ffffff&animation=fadeIn&color=0:120021,100:4b0082" width="100%"/>
 
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=1200&color=E0AAFF&center=true&vCenter=true&width=680&lines=computer+science+-+late+night+focus;i+like+building+project+cars;learning+javascript;productive+male+-+sipping+matcha" alt="typing" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=1200&color=E0AAFF&center=true&vCenter=true&width=680&lines=computer+science+-+late+night+focus;i+like+building+project+cars;learning+javascript;productive+male+-+sipping+matcha"
+  alt="typing"
+/>
 
-  <!-- GIF -->
-  <img src="https://media3.giphy.com/media/hHApm4tOjtyoJHwRSZ/giphy.gif" width="420" />
-
-</div>
-
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7a00ff,100:120021" width="100%" />
-
-<!-- Bento Box Layout (2 Columns) -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
-
-  <!-- About Section -->
-  <div style="width: 45%; background-color: #120021; color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <h3>𓂃⋆.˚ about</h3>
-    <ul>
-      <li>CS student @ <strong>UNITEN</strong></li>
-      <li>ex-MICOST (SKM)</li>
-      <li>Project Cars</li>
-      <li>Learning JavaScript</li>
-      <li>Matcha-fueled 🍵</li>
-    </ul>
-  </div>
-
-  <!-- Stats Section -->
-  <div style="width: 45%; background-color: #120021; color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <h3>࣪𖤐.ᐟ stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=gajeee&show_icons=true&count_private=true&hide=prs&theme=tokyonight&bg_color=0d1117&text_color=ffffff&title_color=9b59b6&icon_color=9b59b6" width="100%" />
-  </div>
+<img src="https://media3.giphy.com/media/hHApm4tOjtyoJHwRSZ/giphy.gif" width="420"/>
 
 </div>
 
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:120021,100:7a00ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7a00ff,100:120021" width="100%"/>
 
-<!-- Skills Section (2 Columns) -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
-
-  <!-- Languages Section -->
-  <div style="width: 45%; background-color: #120021; color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <h3>˙⋆✮ languages</h3>
-    <div style="display: flex; gap: 10px; justify-content: center;">
-      <a href="https://www.reddit.com/r/Python/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></a>
-      <a href="https://www.reddit.com/r/C_Programming/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /></a>
-      <a href="https://www.reddit.com/r/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /></a>
-      <a href="https://www.reddit.com/r/HTML/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /></a>
-      <a href="https://www.reddit.com/r/javascript/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></a>
-    </div>
-  </div>
-
-  <!-- Tools Section -->
-  <div style="width: 45%; background-color: #120021; color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <h3>˙⋆✮ familiar with</h3>
-    <div style="display: flex; gap: 10px; justify-content: center;">
-      <a href="https://www.reddit.com/r/vscode/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /></a>
-      <a href="https://www.reddit.com/r/linux/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /></a>
-      <a href="https://www.reddit.com/r/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /></a>
-      <a href="https://www.reddit.com/r/raspberry_pi/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" /></a>
-      <a href="https://www.reddit.com/r/windows/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" /></a>
-    </div>
-  </div>
-
-</div>
-
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7a00ff,100:120021" width="100%" />
-
-<!-- Working On Section -->
-<div style="width: 100%; background-color: #120021; color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px;">
-  <h3>࣪𖤐.ᐟ working on</h3>
-  <ul>
-    <li>CS fundamentals</li>
-    <li>Javascript logic</li>
-    <li>Cybersecurity</li>
-    <li>Portfolio - <a href="https://github.com/gajeee/Portfolio" style="color: #E0AAFF;">View Portfolio</a></li>
-  </ul>
-</div>
-
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:120021,100:7a00ff" width="100%" />
-
-<!-- Social Media Section -->
 <div align="center">
-  <img src="https://media0.giphy.com/media/b9BdAx0ocS8pbn398T/giphy.gif" width="340" />
-  <br/>
-  <a href="https://www.reddit.com/user/Hurtzeuz/"><img src="https://img.shields.io/badge/REDDIT-120021?style=for-the-badge&logo=reddit&logoColor=ff4dff" height="32"/></a>
-  <a href="https://open.spotify.com/user/n26cmlxfznt69278llwe8x6pk"><img src="https://img.shields.io/badge/SPOTIFY-120021?style=for-the-badge&logo=spotify&logoColor=1db954" height="32"/></a>
-  <a href="https://www.instagram.com/gajeness"><img src="https://img.shields.io/badge/INSTAGRAM-120021?style=for-the-badge&logo=instagram&logoColor=e0aaff" height="32"/></a>
-  <a href="mailto:gajenes10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-120021?style=for-the-badge&logo=gmail&logoColor=ffffff" height="32"/></a>
+
+<table width="100%" cellpadding="8">
+<tr>
+
+<td width="50%" valign="top">
+
+**𓂃⋆.˚ about**
+- CS student @ **UNITEN**
+- ex-MICOST (SKM)
+- project cars
+- learning javascript
+- matcha-fueled 🍵
+
+</td>
+
+<td width="50%" valign="top">
+
+**࣪𖤐.ᐟ stats**  
+<!-- New GitHub Stats by Anurag Hazra -->
+<img src="https://github-readme-stats.vercel.app/api?username=gajeee&show_icons=true&count_private=true&hide=prs&theme=tokyonight&bg_color=0d1117&text_color=ffffff&title_color=9b59b6&icon_color=9b59b6" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
-<!-- Footer Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:120021,100:7a00ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:120021,100:7a00ff" width="100%"/>
+
+<div align="center">
+
+<table cellpadding="6">
+<tr>
+
+<td align="center">
+
+**˙⋆✮ languages**
+
+<a href="https://www.reddit.com/r/Python/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34"/></a>
+<a href="https://www.reddit.com/r/C_Programming/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="34"/></a>
+<a href="https://www.reddit.com/r/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="34"/></a>
+<a href="https://www.reddit.com/r/HTML/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34"/></a>
+<a href="https://www.reddit.com/r/javascript/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34"/></a>
+
+</td>
+
+<td width="28"></td>
+
+<td align="center">
+
+**˙⋆✮ familiar with**
+
+<a href="https://www.reddit.com/r/vscode/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="34"/></a>
+<a href="https://www.reddit.com/r/linux/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34"/></a>
+<a href="https://www.reddit.com/r/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="34"/></a>
+<a href="https://www.reddit.com/r/raspberry_pi/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="34"/></a>
+<a href="https://www.reddit.com/r/windows/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="34"/></a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7a00ff,100:120021" width="100%"/>
+
+<div align="center">
+
+<!-- collapsed cleanly: removed the empty right column entirely -->
+<table width="100%" cellpadding="8">
+<tr>
+
+<td width="100%" valign="top">
+
+**࣪𖤐.ᐟ working on**
+- CS fundamentals
+- javascript logic
+- cybersecurity
+- portfolio  
+https://github.com/gajeee/Portfolio
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:120021,100:7a00ff" width="100%"/>
+
+<div align="center">
+
+<img src="https://media0.giphy.com/media/b9BdAx0ocS8pbn398T/giphy.gif" width="340"/>
+
+<a href="https://www.reddit.com/user/Hurtzeuz/"><img src="https://img.shields.io/badge/REDDIT-120021?style=for-the-badge&logo=reddit&logoColor=ff4dff" height="32"/></a>
+<a href="https://open.spotify.com/user/n26cmlxfznt69278llwe8x6pk"><img src="https://img.shields.io/badge/SPOTIFY-120021?style=for-the-badge&logo=spotify&logoColor=1db954" height="32"/></a>
+<a href="https://www.instagram.com/gajeness"><img src="https://img.shields.io/badge/INSTAGRAM-120021?style=for-the-badge&logo=instagram&logoColor=e0aaff" height="32"/></a>
+<a href="mailto:gajenes10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-120021?style=for-the-badge&logo=gmail&logoColor=ffffff" height="32"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:120021,100:7a00ff" width="100%"/>
 
