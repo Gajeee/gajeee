@@ -19,14 +19,26 @@
 <tr>
 
 <!-- About Section -->
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 **𓂃⋆.˚ about**
 - CS student @ **UNITEN**
 - ex-MICOST (SKM)
-- project cars 🚗
+- project cars 
 - learning javascript 💻
-- matcha-fueled 🍵
+- Ram Jam enthusiast
+
+</td>
+
+<!-- Working On Section -->
+<td width="50%" valign="top">
+
+**࣪𖤐.ᐟ working on**
+- CS fundamentals
+- javascript logic
+- cybersecurity 🛡️
+- portfolio  
+https://github.com/gajeee/Portfolio
 
 </td>
 
@@ -74,29 +86,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7a00ff,100:120021" width="100%"/>
-
-<div align="center">
-
-<table width="100%" cellpadding="8">
-<tr>
-
-<td width="100%" valign="top">
-
-**࣪𖤐.ᐟ working on**
-- CS fundamentals
-- javascript logic
-- cybersecurity 🛡️
-- portfolio  
-https://github.com/gajeee/Portfolio
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:120021,100:7a00ff" width="100%"/>
 
 <div align="center">
 
