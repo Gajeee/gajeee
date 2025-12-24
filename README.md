@@ -10,23 +10,23 @@
 
 <!-- Bento Box Start -->
 <div align="center">
-  <table width="100%" cellpadding="8">
+  <table width="90%" cellpadding="8">
     <tr>
-      <td align="center" style="padding: 20px; border: 2px solid #7a00ff; border-radius: 8px; margin: 10px; width: 45%; background-color: #120021;">
-        <strong style="color: white;">About Me</strong>
-        <p style="color: white; font-size: 14px;">CS Student @ <strong>UNITEN</strong></p>
-        <p style="color: white; font-size: 14px;">Building innovative tech solutions and continuously learning</p>
-        <p style="color: white; font-size: 14px;">Focused on JavaScript, Cybersecurity, and Web Development</p>
+      <td style="padding: 20px; border: 2px solid #7a00ff; border-radius: 8px; margin: 10px; background-color: #120021; color: white;">
+        <strong>About Me</strong>
+        <p>CS Student @ <strong>UNITEN</strong></p>
+        <p>Building innovative tech solutions and continuously learning</p>
+        <p>Focused on JavaScript, Cybersecurity, and Web Development</p>
       </td>
 
-      <td align="center" style="padding: 20px; border: 2px solid #7a00ff; border-radius: 8px; margin: 10px; width: 45%; background-color: #120021;">
-        <strong style="color: white;">Technologies & Tools</strong>
+      <td style="padding: 20px; border: 2px solid #7a00ff; border-radius: 8px; margin: 10px; background-color: #120021; color: white;">
+        <strong>Technologies & Tools</strong>
         <div>
-          <a href="https://www.reddit.com/r/Python/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34"/></a>
-          <a href="https://www.reddit.com/r/C_Programming/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="34"/></a>
-          <a href="https://www.reddit.com/r/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="34"/></a>
-          <a href="https://www.reddit.com/r/HTML/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34"/></a>
-          <a href="https://www.reddit.com/r/javascript/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34"/></a>
+          <a href="https://www.reddit.com/r/Python/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" alt="Python"/></a>
+          <a href="https://www.reddit.com/r/C_Programming/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="34" alt="C"/></a>
+          <a href="https://www.reddit.com/r/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="34" alt="Java"/></a>
+          <a href="https://www.reddit.com/r/HTML/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" alt="HTML5"/></a>
+          <a href="https://www.reddit.com/r/javascript/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" alt="JavaScript"/></a>
         </div>
       </td>
     </tr>
@@ -38,23 +38,23 @@
 
 <!-- Bento Box Start -->
 <div align="center">
-  <table width="100%" cellpadding="8">
+  <table width="90%" cellpadding="8">
     <tr>
-      <td align="center" style="padding: 20px; border: 2px solid #7a00ff; border-radius: 8px; margin: 10px; width: 45%; background-color: #120021;">
-        <strong style="color: white;">Currently Working On</strong>
-        <p style="color: white; font-size: 14px;">Strengthening Computer Science fundamentals</p>
-        <p style="color: white; font-size: 14px;">Improving JavaScript and web development skills</p>
-        <p style="color: white; font-size: 14px;">Exploring cybersecurity solutions</p>
-        <p style="color: white; font-size: 14px;">Building a professional portfolio <a href="https://github.com/gajeee/Portfolio" style="color: #7a00ff;">Check it here</a></p>
+      <td style="padding: 20px; border: 2px solid #7a00ff; border-radius: 8px; margin: 10px; background-color: #120021; color: white;">
+        <strong>Currently Working On</strong>
+        <p>Strengthening Computer Science fundamentals</p>
+        <p>Improving JavaScript and web development skills</p>
+        <p>Exploring cybersecurity solutions</p>
+        <p>Building a professional portfolio <a href="https://github.com/gajeee/Portfolio" style="color: #7a00ff;">Check it here</a></p>
       </td>
 
-      <td align="center" style="padding: 20px; border: 2px solid #7a00ff; border-radius: 8px; margin: 10px; width: 45%; background-color: #120021;">
-        <strong style="color: white;">Find Me On</strong>
+      <td style="padding: 20px; border: 2px solid #7a00ff; border-radius: 8px; margin: 10px; background-color: #120021; color: white;">
+        <strong>Find Me On</strong>
         <div>
-          <a href="https://www.reddit.com/user/Hurtzeuz/"><img src="https://img.shields.io/badge/REDDIT-120021?style=for-the-badge&logo=reddit&logoColor=ff4dff" height="32"/></a>
-          <a href="https://open.spotify.com/user/n26cmlxfznt69278llwe8x6pk"><img src="https://img.shields.io/badge/SPOTIFY-120021?style=for-the-badge&logo=spotify&logoColor=1db954" height="32"/></a>
-          <a href="https://www.instagram.com/gajeness"><img src="https://img.shields.io/badge/INSTAGRAM-120021?style=for-the-badge&logo=instagram&logoColor=e0aaff" height="32"/></a>
-          <a href="mailto:gajenes10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-120021?style=for-the-badge&logo=gmail&logoColor=ffffff" height="32"/></a>
+          <a href="https://www.reddit.com/user/Hurtzeuz/"><img src="https://img.shields.io/badge/REDDIT-120021?style=for-the-badge&logo=reddit&logoColor=ff4dff" height="32" alt="Reddit"/></a>
+          <a href="https://open.spotify.com/user/n26cmlxfznt69278llwe8x6pk"><img src="https://img.shields.io/badge/SPOTIFY-120021?style=for-the-badge&logo=spotify&logoColor=1db954" height="32" alt="Spotify"/></a>
+          <a href="https://www.instagram.com/gajeness"><img src="https://img.shields.io/badge/INSTAGRAM-120021?style=for-the-badge&logo=instagram&logoColor=e0aaff" height="32" alt="Instagram"/></a>
+          <a href="mailto:gajenes10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-120021?style=for-the-badge&logo=gmail&logoColor=ffffff" height="32" alt="Email"/></a>
         </div>
       </td>
     </tr>
@@ -63,3 +63,4 @@
 <!-- Bento Box End -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:120021,100:7a00ff" width="100%"/>
+
