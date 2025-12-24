@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Gajee&fontSize=52&fontColor=ffffff&animation=fadeIn&color=0:120021,100:4b0082" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=1200&color=E0AAFF&center=true&vCenter=true&width=680&lines=Computer+Science+Student;Building+Projects+and+Solutions;Learning+New+Technologies;Focused+on+Continuous+Growth" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=1200&color=E0AAFF&center=true&vCenter=true&width=680&lines=CS+Student+Building+Innovative+Tech;Learning+JavaScript+and+Cybersecurity;Working+on+Personal+Projects;Always+Striving+to+Improve" alt="typing" />
 
 </div>
 
@@ -16,9 +16,10 @@
 <td width="50%" valign="top">
 
 **About Me**
-- CS Student @ **UNITEN**
-- Focused on developing innovative tech solutions
-- Passionate about building and learning new technologies
+- Computer Science Student @ **UNITEN**
+- Passionate about building innovative projects and solutions
+- Focusing on JavaScript, Cybersecurity, and Web Development
+- Always learning and growing in the tech world
 
 </td>
 
@@ -43,10 +44,10 @@
 <div align="center">
 
 **Currently Working On**
-- Strengthening CS fundamentals
-- Improving JavaScript and web development skills
-- Exploring cybersecurity solutions
-- Building a personal portfolio
+- Strengthening Computer Science fundamentals
+- Enhancing JavaScript skills
+- Exploring cybersecurity practices and solutions
+- Building a professional portfolio
 
 <a href="https://github.com/gajeee/Portfolio">Check my Portfolio here</a>
 
