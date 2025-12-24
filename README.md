@@ -18,7 +18,8 @@
 <table width="100%" cellpadding="8">
 <tr>
 
-<td width="80%" valign="top">
+<!-- About Section -->
+<td width="50%" valign="top">
 
 **𓂃⋆.˚ about**
 - CS student @ **UNITEN**
@@ -29,7 +30,8 @@
 
 </td>
 
-<td width="100%" valign="top">
+<!-- Stats Section -->
+<td width="50%" valign="top">
 
 **࣪𖤐.ᐟ stats**  
 <!-- New GitHub Stats by Anurag Hazra -->
@@ -84,7 +86,6 @@
 
 <div align="center">
 
-<!-- collapsed cleanly: removed the empty right column entirely -->
 <table width="100%" cellpadding="8">
 <tr>
 
