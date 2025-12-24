@@ -19,7 +19,7 @@
 <tr>
 
 <!-- About Section -->
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 **𓂃⋆.˚ about**
 - CS student @ **UNITEN**
@@ -31,7 +31,7 @@
 </td>
 
 <!-- Stats Section -->
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 **࣪𖤐.ᐟ stats**  
 <!-- New GitHub Stats by Anurag Hazra -->
@@ -119,3 +119,4 @@ https://github.com/gajeee/Portfolio
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:120021,100:7a00ff" width="100%"/>
+
