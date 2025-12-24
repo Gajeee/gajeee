@@ -23,8 +23,8 @@
 **𓂃⋆.˚ about**
 - CS student @ **UNITEN**
 - ex-MICOST (SKM)
-- project cars
-- learning javascript
+- project cars 🚗
+- learning javascript 💻
 - matcha-fueled 🍵
 
 </td>
@@ -93,7 +93,7 @@
 **࣪𖤐.ᐟ working on**
 - CS fundamentals
 - javascript logic
-- cybersecurity
+- cybersecurity 🛡️
 - portfolio  
 https://github.com/gajeee/Portfolio
 
@@ -118,4 +118,3 @@ https://github.com/gajeee/Portfolio
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:120021,100:7a00ff" width="100%"/>
-
