@@ -29,7 +29,7 @@
 
 </td>
 
-<td width="80%" valign="top">
+<td width="100%" valign="top">
 
 **࣪𖤐.ᐟ stats**  
 <!-- New GitHub Stats by Anurag Hazra -->
