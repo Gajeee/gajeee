@@ -87,18 +87,18 @@
 <style>
   .animated-icon {
     display: inline-block;
-    animation: rotate 2s infinite ease-in-out;
+    animation: bounce 1.5s infinite ease-in-out;
   }
 
-  @keyframes rotate {
+  @keyframes bounce {
     0% {
-      transform: rotate(0deg);
+      transform: scale(1);
     }
     50% {
-      transform: rotate(360deg);
+      transform: scale(1.2);
     }
     100% {
-      transform: rotate(0deg);
+      transform: scale(1);
     }
   }
 </style>
