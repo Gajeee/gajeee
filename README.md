@@ -65,8 +65,6 @@ https://gajeee.github.io/Portfolio/
 <a href="https://www.reddit.com/r/javascript/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34"/></a>
 <a href="https://www.reddit.com/r/ruby/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="34"/></a>
 <a href="https://www.reddit.com/r/swift/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="34"/></a>
-<a href="https://www.reddit.com/r/kotlin/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="34"/></a>
-<a href="https://www.reddit.com/r/typescript/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34"/></a>
 
 </td>
 
